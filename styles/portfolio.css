@@ -67,10 +67,18 @@ font-size: 85px;
 }
 
 /* main section style */
-
+main{
+    max-width: 1140px;
+}
 /* main section style */
 
 /* about section style */
+
+.about-info-container{
+    display: flex;
+    justify-content: space-between;
+}
+
 
 .section-title{
     color: #181818;
@@ -97,3 +105,6 @@ font-size: 85px;
         line-height: 30px;
 }
 /* about section style */
+.about-info{
+    text-align: center;
+}
