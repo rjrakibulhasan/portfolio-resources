@@ -7,6 +7,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 
 .btn-primary{
@@ -35,4 +36,19 @@ nav li {
 }
 nav a{
     text-decoration: none;
+}
+/* header related style */
+.header{
+    background-color: #FFF8F3;;
+}
+.bannar{
+    padding:30px 30px 30px 150px ;
+    display: flex;
+    align-items: center;
+}
+.bannar-greetion{
+
+}
+.profile-picture{
+    width: 500px;
 }
